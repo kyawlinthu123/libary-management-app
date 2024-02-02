@@ -1,7 +1,6 @@
 # Library Management App
 
-This is a project from an online course I singed up. Project is actually like 40-505 followed along but I actually understood React.js concepts 
-really well and also modified or rather, improvised the codes a few times here and there.
+This is a project from an online course I signed up. Honestly, project is actually like 40-50% followed along in the sense of coding the same way but I actually understood React.js concepts really well and amodified or rather, improvised the codes a few times here and there when I'm trying out the new concepts myself.
 
 Welcome to the Library Management App, a web application designed to help you store and manage your book collection with ease.
 
