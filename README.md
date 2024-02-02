@@ -14,7 +14,3 @@ Welcome to the Library Management App, a web application designed to help you st
 
 - **React.js (Vite):** The application is built using the modern React.js framework with Vite for efficient development.
 - **Tailwind CSS:** Styling is done using Tailwind CSS, providing a customizable and responsive design.
-
-## Acknowledgments
-
-Special thanks to the contributors who have helped make this project possible.
