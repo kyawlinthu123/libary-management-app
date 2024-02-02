@@ -1,0 +1,35 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "description": "A comedic science fiction series",
+        "categories": ["Science Fiction", "Humor"]
+      },
+      {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "description": "A classic novel set in the American South",
+        "categories": ["Fiction", "Legal Drama"]
+      },
+      {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "description": "A portrayal of the American Dream in the 1920s",
+        "categories": ["Fiction", "Classics"]
+      },
+      {
+        "id": 4,
+        "title": "Sapiens: A Brief History of Humankind",
+        "description": "Exploring the history and impact of Homo sapiens",
+        "categories": ["Non-Fiction", "History"]
+      },
+      {
+        "id": 5,
+        "title": "The Art of Programming",
+        "description": "Mastering the craft of coding and problem-solving",
+        "categories": ["Programming", "Technology"]
+      }
+    ]
+  }
+  
