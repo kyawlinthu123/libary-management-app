@@ -1,8 +1,16 @@
-# React + Vite
+# Library Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Library Management App, a web application designed to help you store and manage your book collection with ease.
 
-Currently, two official plugins are available:
+This is a project from an online course I signed up. I coded along with the project tutorials, and I actually understood React.js concepts really well and modified or rather, improvised the cource code a few times here and there when I'm trying out the new concepts myself.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Book Management:** Add, edit, and remove books from your collection.
+- **Search Functionality:** Quickly find specific books using the search feature.
+- **Responsive Design:** Enjoy a seamless experience on various devices.
+
+## Technologies Used
+
+- **React.js (Vite):** The application is built using the modern React.js framework with Vite for efficient development.
+- **Tailwind CSS:** Styling is done using Tailwind CSS, providing a customizable and responsive design.
